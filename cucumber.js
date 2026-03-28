@@ -1,0 +1,12 @@
+module.exports={
+    default:{
+        require:[
+            'step-definition/*.js',
+            'hooks/*.js'
+        ],
+        format:['progress',
+            'html:reports/report.html'
+        ],
+        timeout:60000
+    }
+};

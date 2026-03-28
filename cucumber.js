@@ -5,7 +5,8 @@ module.exports={
             'hooks/*.js'
         ],
         format:['progress',
-            '@cucumber/html-formatter:reports/report.html'
+            "allure-cucumberjs/reporter",
+            'html:reports/report.html',
         ],
         timeout:60000
     }

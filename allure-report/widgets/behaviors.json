@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":2,"items":[{"uid":"e4dde8f3007065291fc96844a565502b","name":"To Validate Login Functionality With Multiple Users","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"04f8dc0820d63654aa1df07867d9414e","name":"To validate the Login Functionality for Adactin Page","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
